@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+public/offline_openart.svg
+public/undraw_blank_canvas_3rbb.svg
+public/undraw_blank_canvas_offline.svg
+*.http

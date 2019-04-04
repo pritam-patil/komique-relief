@@ -1,4 +1,35 @@
+![React: v16](https://img.shields.io/badge/react-v16.7-blue.svg)
+![material-ui: v3.7](https://img.shields.io/badge/material--ui-v3.7-ff69b4.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+![Build: passing](https://img.shields.io/badge/build-passing-green.svg)
+
+
+# Komique-Relief
+
+Read latest comics from xkcd.com in this app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##### [Live Demo](http://komique-relief.surge.sh/)  :fries:
+
+## Features
+1. Designed with Material-UI 
+2. Connection status handling with Snackbars
+3. Comics as card
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+You will need to have following installed to use the software -
+
+
+* [npm](https://www.npmjs.com/get-npm) / [yarn](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
+* [node](https://nodejs.org/en/download/)
+* [git](https://www.atlassian.com/git/tutorials/install-git)
+
 
 ## Available Scripts
 
@@ -66,3 +97,26 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## TODO
+
+* Share option
+* About and Help
+
+## Contributing
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning.
+
+
+## Authors
+
+* [**Pritam Patil**](https://github.com/pritam-patil)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
